@@ -91,6 +91,8 @@ Class ViewHome extends View {
     return $this;
 }
 
+
+//tout afficher
 public function displayAll(): void
 {
     $this->displayHeader()
